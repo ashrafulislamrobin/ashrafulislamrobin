@@ -16,14 +16,14 @@
 <br/>
 
 <!--- about --->
-- 👋 Hi, I’m **[@YOUR_USERNAME](https://github.com/YOUR_USERNAME)**
+- 👋 Hi, I’m **[Md Ashraful Islam Robin](https://github.com/ashrafulislamrobin)**
 - 🖥️ Building **production-ready Full Stack SaaS** with Next.js, TypeScript & clean architecture
 - 🗄️ Backend with **Node.js, Express, NestJS, PostgreSQL, Drizzle ORM & Redis**
 - 🤖 Specializing in **AI Engineering** — RAG, LangChain, LangGraph, Multi-Agent Systems & Vector Databases
 - 🛠️ Experienced in **Docker, Multi-container apps, CI/CD, NGINX, AWS & VPS deployment**
 - 💬 Ask me about **Multi-tenant SaaS, System Design, Production AI Systems & TypeScript**
-- 🌐 Explore My Portfolio **[Your Portfolio](https://your-portfolio.vercel.app)** and My **[Resume](https://drive.google.com/...)**
-- 📫 Reach me at **[your.email@gmail.com](mailto:your.email@gmail.com)**
+- 🌐 Explore My  **[Portfolio](https://your-portfolio.vercel.app)** and My **[Resume](https://drive.google.com/...)**
+- 📫 Reach me at **[ashrafulrobin.mail@gmail.com](mailto:ashrafulrobin.mail@gmail.com)**
 
 <br/>
 
@@ -74,7 +74,7 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b> GITHUB STATISTICS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/YOUR_USERNAME/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/ashrafulislamrobin/contribution-snake/blob/output/grid.svg)
 
 ### GitHub Stats:
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact" /></a> |
