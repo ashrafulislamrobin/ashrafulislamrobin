@@ -53,20 +53,20 @@
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,c,cpp,python,java)](https://github.com/YOUR_USERNAME)
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,c,cpp,python,java)](https://github.com/ashrafulislamrobin)
 
 ### Frontend:
-[![Frontend](https://skillicons.dev/icons?i=next,react,tailwind,vite)](https://github.com/YOUR_USERNAME)
+[![Frontend](https://skillicons.dev/icons?i=next,react,tailwind,vite)](https://github.com/ashrafulislamrobin)
 
 ### Backend & Database:
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,prisma,mysql)](https://github.com/ashrafulislamrobin)
 
 ### AI & Vector:
-[![AI](https://skillicons.dev/icons?i=python,openai)](https://github.com/YOUR_USERNAME)  
+[![AI](https://skillicons.dev/icons?i=python,openai)](https://github.com/ashrafulislamrobin)  
 `LangChain • LangGraph • RAG • pgvector • Embeddings • Multi-Agent Systems`
 
 ### DevOps & Tools:
-[![DevOps](https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,nginx,linux,git,github,vscode,postman)](https://github.com/YOUR_USERNAME)
+[![DevOps](https://skillicons.dev/icons?i=docker,aws,githubactions,vercel,nginx,linux,git,github,vscode,postman)](https://github.com/ashrafulislamrobin)
 
 <br/>
 
