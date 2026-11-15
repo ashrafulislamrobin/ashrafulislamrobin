@@ -32,16 +32,16 @@
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <a href="https://linkedin.com/in/ashrafulislamrobin" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" width="40" />
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <a href="https://twitter.com/ashrafulrobinX" target="_blank">
       <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="35" width="40" />
     </a>
-    <a href="mailto:your.email@gmail.com" target="_blank">
+    <a href="mailto:ashrafulrobin.mail@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="35" width="40" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <a href="https://github.com/ashrafulislamrobin" target="_blank">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" width="40" />
     </a>
   </p>
