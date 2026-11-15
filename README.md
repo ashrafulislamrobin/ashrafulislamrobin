@@ -53,7 +53,7 @@
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=ts,js,html,css)](https://github.com/YOUR_USERNAME)
+[![Languages](https://skillicons.dev/icons?i=ts,js,html,css,c,cpp,python,java)](https://github.com/YOUR_USERNAME)
 
 ### Frontend:
 [![Frontend](https://skillicons.dev/icons?i=next,react,tailwind,vite)](https://github.com/YOUR_USERNAME)
