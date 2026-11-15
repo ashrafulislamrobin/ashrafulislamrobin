@@ -59,7 +59,7 @@
 [![Frontend](https://skillicons.dev/icons?i=next,react,tailwind,vite)](https://github.com/YOUR_USERNAME)
 
 ### Backend & Database:
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,prisma)](https://github.com/YOUR_USERNAME)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,prisma,mysql](https://github.com/ashrafulislamrobin)
 
 ### AI & Vector:
 [![AI](https://skillicons.dev/icons?i=python,openai)](https://github.com/YOUR_USERNAME)  
