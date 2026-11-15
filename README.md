@@ -19,7 +19,7 @@
 - 👋 Hi, I’m **[Md Ashraful Islam Robin](https://github.com/ashrafulislamrobin)**
 - 🖥️ Building **production-ready Full Stack SaaS** with Next.js, TypeScript & clean architecture
 - 🗄️ Backend with **Node.js, Express, NestJS, PostgreSQL, Drizzle ORM & Redis**
-- 🤖 Specializing in **AI Engineering** — RAG, LangChain, LangGraph, Multi-Agent Systems & Vector Databases
+- 🤖 I specialize in **AI Engineering**, focusing on technologies such as Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Multi-Agent Systems, and Vector Databases.
 - 🛠️ Experienced in **Docker, Multi-container apps, CI/CD, NGINX, AWS & VPS deployment**
 - 💬 Ask me about **Multi-tenant SaaS, System Design, Production AI Systems & TypeScript**
 - 🌐 Explore My  **[Portfolio](https://your-portfolio.vercel.app)** and My **[Resume](https://drive.google.com/...)**
