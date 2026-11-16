@@ -76,16 +76,6 @@
 
 ### GitHub Contributions:
 
-
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafulislamrobin&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamrobin&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
-
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=ashrafulislamrobin&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=ashrafulislamrobin" /></a> |
-| ------------- | ------------- |
-
-
 ### Streak & Activity:
 | <a><img align="center" src="https://streak-stats.demolab.com/?user=ashrafulislamrobin&theme=tokyonight&hide_border=true" /></a> |
 | ------------- |
@@ -100,5 +90,5 @@
 
 <!--- visit count --->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=6366F1&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashrafulislamrobin&label=Profile%20views&color=6366F1&style=flat" alt="Profile views" />
 </p>
